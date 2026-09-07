@@ -1,2 +1,2 @@
-# Your Name (Main heading)
-## About Me (Section heading)  
+# Scott P Overmyer, PhD
+## Software Engineering and Educator  

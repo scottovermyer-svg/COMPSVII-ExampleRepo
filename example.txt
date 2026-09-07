@@ -1,5 +1,4 @@
 My Grocery List
-- Bananas
 - Potato Chips
 - Eggs
 - Butter

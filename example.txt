@@ -4,3 +4,5 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
+- Apples
+- Grapes
